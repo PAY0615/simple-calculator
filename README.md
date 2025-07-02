@@ -1,2 +1,4 @@
-# simple-calculator
-A basic Python calculator that performs four arithmetic operations.
+print("Simple Calculator")
+
+num1 = 10
+num2 = 5
